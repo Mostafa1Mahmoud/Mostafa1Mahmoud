@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I'm an undergrad student at my final year in Faculty of Engineering Computer Systems Department.
-- I’m currently working on my graduation project which is a VANET (Vehcle Adhock Networking) security system 🔭.
+- I’m currently working on my graduation project which is a VANET (Vehicle Adhock Networking) security system 🔭.
 - I’m looking to collaborate on open source projects 👯.
 
 ### How to reach me 📫:
