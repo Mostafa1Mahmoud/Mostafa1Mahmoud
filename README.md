@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   - I'm an ECPC (Egyption Collage Programming Contest) Contestant I have participated twice.
   - The First Time i participated in The ECPC i didn't make it to the Finals but in the Second time i made it and got the 80th place out of 1800 teams.
   - Now I Instruct and help new commers in the competitve programming field and Intending to participate for the third time and aim to get to the Top Ten teams.
-  - I'm Instructor Shoubra Racing Team which is a racing team compete in the field of Electerical racing cars and i'm the Embedded Developer in The Team and an Embedded Instructor for new commers.
+  - I'm Instructor in Shoubra Racing Team which is a racing team compete in the field of Electerical racing cars and i'm the Embedded Developer in The Team and an Embedded Instructor for new commers.
   - The Team Participate in the competition Electric Vehicle Rally (EVER) is an energy efficiency competition which is held on the scope of Egypt.
 
 
