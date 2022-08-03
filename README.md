@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - A fresh graduate from Faculty of Engineering major Computer Systems.
-- Currently working on a VANET (Vehicle Adhock Networking) security system 🔭 for my graduation project.
+- Currently studying cloud computing as a step for being devops engineer.
 - Eager to contribute to your open source projects 👯.
 ### Expriences and Activities:
   - Participated twice at ECPC (Egyption Collegiate Programming Contest).
