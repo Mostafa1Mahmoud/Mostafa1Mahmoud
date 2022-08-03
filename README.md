@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- A senior student at Faculty of Engineering studing Computer Systems.
+- A fresh graduate from Faculty of Engineering major Computer Systems.
 - Currently working on a VANET (Vehicle Adhock Networking) security system 🔭 for my graduation project.
 - Eager to contribute to your open source projects 👯.
 ### Expriences and Activities:
