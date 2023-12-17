@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- A fresh graduate from Faculty of Engineering major Computer Systems.
-- Currently studying cloud computing as a step for being devops engineer.
+- A Junior Software Engineer.
+- Currently Working at ERP SaaS company called Itqan Systems.
 - Eager to contribute to your open source projects 👯.
 ### Expriences and Activities:
+  - Designing and implementing ERP systems using odoo framwork
   - Participated twice at ECPC (Egyption Collegiate Programming Contest).
   - Although I didn't make it to the finals the first time, I made it to the finals on my second try and got the 80th place with my team out of 1800 teams.
-  - Now I help new commers to get started in competitve programming field, and I am intending to participate for the third time and the goal is to get to the Top Ten teams.
+  - helped new commers to get started in competitve programming field, and I am intending to participate for the third time and the goal is to get to the Top Ten teams.
   - Head of embbeded software development sub-team of Shoubra Racing Team, where I design and develope software for EVs (Electric Vehicles).
   - Embbeded software instructor for new members of Shoubra Racing Team.
   - The Team participate in various local and global students EV competitions, we recenly got 2nd place overall and 1st place for Electric sub-team in GEVC (Global Electric Vehicle Challenge).
