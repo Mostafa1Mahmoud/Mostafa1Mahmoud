@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br />
 
 ### Languages and Tools:
-
+<img align="left" alt="Odoo" width="26px" src="https://camo.githubusercontent.com/d7703118b3b0585f1a0fd90309fadcddf40b7b9512ec4a2872c2b4c15c9e6318/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f4070726f6772616d6d696e672d6c616e6775616765732d6c6f676f732f6340302e302e332f635f323536783235362e706e67" />
 <img align="left" alt="C" width="26px" src="https://camo.githubusercontent.com/d7703118b3b0585f1a0fd90309fadcddf40b7b9512ec4a2872c2b4c15c9e6318/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f4070726f6772616d6d696e672d6c616e6775616765732d6c6f676f732f6340302e302e332f635f323536783235362e706e67" />
 <img align="left" alt="C++" width="26px" src="https://camo.githubusercontent.com/4692cb7a1a0427bedb2ef79de0453c484c54f1d866d2ff94d8382b4aaf8f0f78/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f4070726f6772616d6d696e672d6c616e6775616765732d6c6f676f732f63707040302e302e322f6370705f323536783235362e706e67" />
 <img align="left" alt="node" width="26px" src="https://raw.githubusercontent.com/Mostafa1Mahmoud/Mostafa1Mahmoud/main/png-transparent-node-js-javascript-database-mongodb-native-miscellaneous-text-trademark.png" />
