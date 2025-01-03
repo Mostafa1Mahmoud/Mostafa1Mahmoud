@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - A Junior Software Engineer.
-- Currently Working at ERP SaaS company called Itqan Systems.
+- Currently Working at Stock Market Brocker called EFG Holding.
 - Eager to contribute to your open source projects 👯.
 ### Expriences and Activities:
-  - Designing and implementing ERP systems using odoo framwork
+  - Designing and implementing systems using .Net Core framework.
+  - Designing and implementing ERP systems using odoo framework.
   - Participated twice at ECPC (Egyption Collegiate Programming Contest).
   - Although I didn't make it to the finals the first time, I made it to the finals on my second try and got the 80th place with my team out of 1800 teams.
   - helped new commers to get started in competitve programming field, and I am intending to participate for the third time and the goal is to get to the Top Ten teams.
